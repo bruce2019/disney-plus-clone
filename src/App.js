@@ -6,8 +6,7 @@ import Detail from './components/Detail'
 import Login from './components/Login'
 import { BrowserRouter as Router,
   Switch,
-  Route,
-  Link 
+  Route
 } from "react-router-dom";
 
 function App() {
